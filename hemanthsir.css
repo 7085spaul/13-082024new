@@ -1,0 +1,105 @@
+            header {
+                background-color: lightgrey;
+                text-align: center;
+                padding: 64px;
+                border: 2px solid #000;
+                border-radius: 10px;
+                border-bottom: 2px solid #ccc
+            }
+            
+            img {
+                display: inline-block;
+                width: 690px;
+                position: relative;
+                bottom: 297px;
+                margin: 10px;
+                border: 2px solid #000;
+                border-radius: 10px;
+            }
+            
+            h1 {
+                color: red;
+            }
+            
+            .justify {
+                width: 700px;
+                position: relative;
+                bottom: 490px;
+                margin: 10px;
+                text-align: justify;
+                height: 422px;
+            }
+            
+            p {
+                width: 700px;
+            }
+            
+            .container1 {
+                background-color: lightgrey;
+                display: inline-block;
+                width: 500px;
+                height: 300px;
+                margin: 10px;
+                border: 2px solid #000;
+                /* Added black border for the containers */
+                border-radius: 10px;
+            }
+            
+            .justify1 {
+                display: inline-block;
+                width: 500px;
+                text-align: justify;
+            }
+            
+            .container2 {
+                background-color: lightgrey;
+                display: block;
+                width: 500px;
+                height: 300px;
+                margin: 10px;
+                border: 2px solid #000;
+                border-radius: 10px;
+            }
+            
+            .justify2 {
+                display: inline-block;
+                width: 500px;
+                text-align: justify;
+            }
+            
+            .container3 {
+                background-color: lightgrey;
+                display: inline-block;
+                width: 500px;
+                height: 300px;
+                margin: 10px;
+                border: 2px solid #000;
+                border-radius: 10px;
+            }
+            
+            .justify3 {
+                display: inline-block;
+                width: 500px;
+                text-align: justify;
+            }
+            
+            .good1 {
+                display: inline-block;
+            }
+            
+            h2 {
+                color: blue;
+            }
+            
+            body {
+                background-color: aqua;
+            }
+            
+            marquee {
+                font-size: 1.2em;
+                color: red;
+                padding: 5px;
+                background-color: #fff;
+                border: 1px solid #000;
+                border-radius: 5px;
+            }
